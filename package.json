@@ -19,7 +19,7 @@
     "travis:coverage": "npm run test:coverage -- --runInBand"
   },
   "devDependencies": {
-    "babel-cli": "alpha",
+    "babel-cli": "latest",
     "babel-jest": "^20.0.3",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-polyfill": "^6.23.0",
