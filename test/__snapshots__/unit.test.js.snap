@@ -4,11 +4,11 @@ exports[`Example Loader Tests: Fixture: simple-file loader prepends correct info
 Array [
   "
   /**
-   * Resource Location: /mnt/c/Users/selarkin/Code/example-webpack-loader/test/fixtures/simple-file.js?
-   * Loaders chainded to module: [{\\"path\\":\\"/mnt/c/Users/selarkin/Code/example-webpack-loader/dist/index.js\\",\\"query\\":\\"\\",\\"data\\":null,\\"pitchExecuted\\":true,\\"normalExecuted\\":true,\\"request\\":\\"/mnt/c/Users/selarkin/Code/example-webpack-loader/dist/index.js\\"}]
+   * Resource Location: /Users/wecomm/seanlarkin/code/example-webpack-loader/test/fixtures/simple-file.js?
+   * Loaders chainded to module: [{\\"path\\":\\"/Users/wecomm/seanlarkin/code/example-webpack-loader/dist/index.js\\",\\"query\\":\\"\\",\\"data\\":null,\\"pitchExecuted\\":true,\\"normalExecuted\\":true,\\"request\\":\\"/Users/wecomm/seanlarkin/code/example-webpack-loader/dist/index.js\\"}]
    * Loader API Version: undefined
    * Is this in \\"webpack mode\\": undefined
-   * This is the users request for the module: /mnt/c/Users/selarkin/Code/example-webpack-loader/dist/index.js!/mnt/c/Users/selarkin/Code/example-webpack-loader/test/fixtures/simple-file.js?
+   * This is the users request for the module: /Users/wecomm/seanlarkin/code/example-webpack-loader/dist/index.js!/Users/wecomm/seanlarkin/code/example-webpack-loader/test/fixtures/simple-file.js?
    */
 
   /**

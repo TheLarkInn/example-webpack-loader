@@ -3,11 +3,11 @@
 exports[`should append transformations to JavaScript module 1`] = `
 "
   /**
-   * Resource Location: /mnt/c/Users/selarkin/Code/example-webpack-loader/src/index.js
-   * Loaders chainded to module: [{\\"path\\":\\"/mnt/c/Users/selarkin/Code/example-webpack-loader/src/index.js\\",\\"query\\":\\"??ref--0-0\\",\\"options\\":{},\\"ident\\":\\"ref--0-0\\",\\"data\\":null,\\"pitchExecuted\\":true,\\"normalExecuted\\":true,\\"request\\":\\"/mnt/c/Users/selarkin/Code/example-webpack-loader/src/index.js??ref--0-0\\"}]
+   * Resource Location: /Users/wecomm/seanlarkin/code/example-webpack-loader/src/index.js
+   * Loaders chainded to module: [{\\"path\\":\\"/Users/wecomm/seanlarkin/code/example-webpack-loader/src/index.js\\",\\"query\\":\\"??ref--0-0\\",\\"options\\":{},\\"ident\\":\\"ref--0-0\\",\\"data\\":null,\\"pitchExecuted\\":true,\\"normalExecuted\\":true,\\"request\\":\\"/Users/wecomm/seanlarkin/code/example-webpack-loader/src/index.js??ref--0-0\\"}]
    * Loader API Version: 2
    * Is this in \\"webpack mode\\": true
-   * This is the users request for the module: /mnt/c/Users/selarkin/Code/example-webpack-loader/src/index.js??ref--0-0!/mnt/c/Users/selarkin/Code/example-webpack-loader/src/index.js
+   * This is the users request for the module: /Users/wecomm/seanlarkin/code/example-webpack-loader/src/index.js??ref--0-0!/Users/wecomm/seanlarkin/code/example-webpack-loader/src/index.js
    */
 
   /**
